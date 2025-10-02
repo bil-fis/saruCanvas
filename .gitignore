@@ -1,0 +1,6 @@
+audio/
+docs/
+scenes/
+*.html
+debug-*
+demo-*
